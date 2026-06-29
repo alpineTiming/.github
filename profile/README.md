@@ -1,2 +1,2 @@
 ## alpineTiming
-### _The mobile-based timing solution aimed at alpine ski racing_
+### _The mobile-based timing solution_
